@@ -1,0 +1,65 @@
+[
+  {
+      "auth": {
+        "authType": "none",
+        "authActive": true,
+        "addTo": "Headers",
+        "key": "",
+        "value": ""
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "endpoint": "https://echo.hoppscotch.io/test",
+      "headers": [],
+      "method": "POST",
+      "name": "1",
+      "params": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "v": "1"
+  },
+  {
+      "auth": {
+        "authType": "none",
+        "authActive": true,
+        "addTo": "Headers",
+        "key": "",
+        "value": ""
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "endpoint": "https://echo.hoppscotch.io",
+      "headers": [],
+      "method": "GET",
+      "name": "1",
+      "params": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "v": "1"
+  },
+  {
+      "auth": {
+        "authType": "none",
+        "authActive": true,
+        "addTo": "Headers",
+        "key": "",
+        "value": ""
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "endpoint": "https://echo.hoppscotch.io",
+      "headers": [],
+      "method": "PUT",
+      "name": "1",
+      "params": [{"key": "name", "value": "zahid", "active": "true"}],
+      "preRequestScript": "",
+      "testScript": "",
+      "v": "1"
+    }
+]
